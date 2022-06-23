@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="[https://github-readme-stats.vercel.app/api?username=qssq&show_icons=true&hide=contribs&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=qssq&show_icons=true&hide=contribsx&include_all_commits=true)" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=qssq&show_icons=true&hide=contribsx&include_all_commits=true" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋)](https://git.io/typing-svg)
 
