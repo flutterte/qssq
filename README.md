@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="left">
     <a href="https://lozn.top">
-    <img src="https://img.shields.io/badge/📖%20掘金地址-blue.svg" />
+    <img src="https://img.shields.io/badge/📖%20个人博客-blue.svg" />
   </a>
   <a href="https://mp.weixin.qq.com/s/qzNUWdXgEpyxBkXvA1JB_g">
     <img src="https://img.shields.io/badge/🚀%20微信公众号-blue.svg" />
